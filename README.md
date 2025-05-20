@@ -37,15 +37,3 @@ Since the overlay has no close button or interface controls, close it by:
 
 - No installation or Python required — just run the `.exe`.  
 - Make sure your antivirus doesn’t block the executable.  
-
----
-
-## License
-
-MIT License © YourName
-
----
-
-## Contact
-
-For questions or feedback, contact [your-email@example.com].
